@@ -1,15 +1,18 @@
+#include <cstddef>
+
 #ifdef __cplusplus
 extern "C" {
 #endif
 
-#include <cstddef>
 
-struct ccomplex {
-  double re, im;
-};
+// struct ccomplex {
+//   double re, im;
+// };
 
-struct ccomplex* dft(struct ccomplex* x, const size_t N);
-struct ccomplex* fft(struct ccomplex* x, const size_t N);
+double** dft(double** x, const size_t N);
+double** fft(double** x, const size_t N);
+// struct ccomplex* dft(const struct ccomplex* x, const size_t N);
+// struct ccomplex* fft(const struct ccomplex* x, const size_t N);
 
 #ifdef __cplusplus
 }
