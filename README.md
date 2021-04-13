@@ -1,5 +1,5 @@
 # DC_FFT
-
+Fast Fourier Transform Benchmarking.
 
 
 **List Number**: X<br>
@@ -11,22 +11,19 @@
 | 17/0146251  |  João Lucas Zarbiélli |
 | 19/0046945  |  Leonardo Michalski Miranda |
 
-## About
-
-## App Gif
+## Screenshot
+![Screenshot](assets/screenshot.png)
 
 ## Video 
-
+![Screenshot](assets/video.mp4)
 
 ## How to run
-**Language**: C++ <br>
-
-## How to use
-
+**Language**: Python <br>
+**Frameworks**: Jupyter; NumPy.
+Access the [notebook](http://colab.research.google.com/github/projeto-de-algoritmos/DC_FFT/blob/main/fft.ipynb) with Google Colab.
 
 ## References
 
 Maklin, Cory - Fast Fourier Transform - 29/12/2019 <br>
 Disponivel em [aqui](https://towardsdatascience.com/fast-fourier-transform-937926e591cb) <br>
 Acessado em: 08/04/2021 <br>
-
