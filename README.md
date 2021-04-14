@@ -14,8 +14,7 @@ Fast Fourier Transform Benchmarking.
 ## Screenshot
 ![Screenshot](assets/screenshot.png)
 
-## Video 
-![Screenshot](assets/video.mp4)
+## Video (pt-br, [download link](https://raw.githubusercontent.com/projeto-de-algoritmos/DC_FFT/main/assets/video.mp4))
 
 ## How to run
 **Language**: Python <br>
